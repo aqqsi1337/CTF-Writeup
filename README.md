@@ -1,2 +1,2 @@
 # CTF-Writeup
-I will share my writeup here, after the competition
+I will share my writeup here after the competition
